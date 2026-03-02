@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.BST-RankingSystem", "1.BST-RankingSystem\1.BST-RankingSystem.vcxproj", "{8247BC1C-DCC5-41C2-A098-14D29234C0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8247BC1C-DCC5-41C2-A098-14D29234C0F1}.Debug|x64.ActiveCfg = Debug|x64
+		{8247BC1C-DCC5-41C2-A098-14D29234C0F1}.Debug|x64.Build.0 = Debug|x64
+		{8247BC1C-DCC5-41C2-A098-14D29234C0F1}.Debug|x86.ActiveCfg = Debug|x64
+		{8247BC1C-DCC5-41C2-A098-14D29234C0F1}.Release|x64.ActiveCfg = Release|x64
+		{8247BC1C-DCC5-41C2-A098-14D29234C0F1}.Release|x64.Build.0 = Release|x64
+		{8247BC1C-DCC5-41C2-A098-14D29234C0F1}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EA66B6-63DF-4DD3-B0BE-2C012ED0BDF8}
+	EndGlobalSection
+EndGlobal

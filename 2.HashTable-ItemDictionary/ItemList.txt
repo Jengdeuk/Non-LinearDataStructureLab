@@ -1,0 +1,109 @@
+Iron Sword,Weapon,120
+Steel Longsword,Weapon,260
+Bronze Dagger,Weapon,80
+Elven Bow,Weapon,310
+Hunter Crossbow,Weapon,290
+Crystal Staff,Weapon,420
+Obsidian Wand,Weapon,380
+Flame Axe,Weapon,340
+Frost Spear,Weapon,360
+Thunder Hammer,Weapon,520
+Shadow Katana,Weapon,480
+Paladin Mace,Weapon,300
+Vampire Fang,Weapon,450
+Dragonbone Blade,Weapon,650
+Storm Rapier,Weapon,410
+Rune Claymore,Weapon,560
+Silver Pike,Weapon,330
+Assassin Dirk,Weapon,210
+Golem Fist,Weapon,470
+Phoenix Talon,Weapon,610
+Leather Cap,Armor,60
+Traveler Hood,Armor,90
+Iron Helm,Armor,140
+Steel Chestplate,Armor,320
+Knight Greaves,Armor,240
+Dragon Scale Armor,Armor,780
+Frostguard Cloak,Armor,360
+Shadow Robe,Armor,310
+Runed Gauntlets,Armor,260
+Golden Shield,Armor,420
+Obsidian Buckler,Armor,290
+Stormguard Boots,Armor,220
+Elven Gloves,Armor,180
+Guardian Pauldrons,Armor,340
+Crystal Circlet,Armor,280
+Sage Mantle,Armor,300
+Flameproof Coat,Armor,410
+Thornmail Vest,Armor,350
+Moonlight Tunic,Armor,270
+Sunforged Plate,Armor,680
+Health Potion,Consumable,35
+Greater Health Potion,Consumable,80
+Mana Potion,Consumable,40
+Greater Mana Potion,Consumable,90
+Stamina Tonic,Consumable,55
+Antidote Vial,Consumable,30
+Elixir of Speed,Consumable,120
+Elixir of Power,Consumable,150
+Scroll of Town Portal,Consumable,110
+Scroll of Identify,Consumable,60
+Bandage Roll,Consumable,20
+Rations Pack,Consumable,25
+Warmth Draught,Consumable,45
+Water Flask,Consumable,15
+Revival Feather,Consumable,220
+Ring of Vitality,Accessory,260
+Ring of Wisdom,Accessory,260
+Ring of Swiftness,Accessory,260
+Amulet of Protection,Accessory,320
+Amulet of Flames,Accessory,340
+Amulet of Frost,Accessory,340
+Amulet of Storms,Accessory,340
+Silver Necklace,Accessory,140
+Golden Necklace,Accessory,220
+Obsidian Pendant,Accessory,380
+Lucky Charm,Accessory,180
+Earrings of Focus,Accessory,200
+Bracelet of Fortitude,Accessory,240
+Cloak Pin,Accessory,90
+Traveler Brooch,Accessory,110
+Ruby Gemstone,Material,120
+Sapphire Gemstone,Material,120
+Emerald Gemstone,Material,120
+Topaz Gemstone,Material,120
+Amethyst Gemstone,Material,120
+Iron Ore,Material,30
+Silver Ore,Material,55
+Gold Ore,Material,85
+Mithril Ore,Material,140
+Dragonite Ore,Material,220
+Oak Lumber,Material,25
+Pine Lumber,Material,20
+Ancient Bark,Material,95
+Spider Silk,Material,60
+Wolf Pelt,Material,45
+Bear Hide,Material,70
+Phoenix Feather,Material,180
+Crystal Shard,Material,110
+Obsidian Fragment,Material,130
+Flame Essence,Material,150
+Frost Essence,Material,150
+Storm Essence,Material,150
+Shadow Essence,Material,170
+Rune Stone,Material,200
+Basic Trap Kit,Tool,90
+Lockpick Set,Tool,140
+Fishing Rod,Tool,120
+Mining Pickaxe,Tool,110
+Woodcutter Axe,Tool,105
+Alchemy Kit,Tool,220
+Portable Anvil,Tool,260
+Repair Hammer,Tool,95
+Torch Bundle,Tool,35
+Explorer Compass,Tool,160
+Map Scrollcase,Tool,130
+Hunting Net,Tool,85
+Camping Tent,Tool,190
+Rope Coil,Tool,40
+Glider Wing,Tool,280
